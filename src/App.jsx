@@ -85,7 +85,6 @@ function App() {
     <div className={`app-wrapper ${isDarkMode ? 'dark-mode' : ''}`}>
       <header className="app-header">
         <h1>✨ Wonderful Single Page Application</h1>
-        <p className="welcome-message">Welcome to <span className="chhavi-name">❤️ Chhavi SPA ❤️</span></p>
         
         {/* Learning Stats */}
         <div className="learning-stats">
