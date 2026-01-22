@@ -2,7 +2,7 @@
 
 A modern, feature-rich **Single Page Application** built with **React** and **Vite** that demonstrates dynamic UI updates without page reloads.
 
-> 🎉 Welcome to **❤️ Chhavi SPA ❤️** - A beautiful and interactive web application!
+> 🎉 Welcome to ** Sibgle Page Application (SPA) ** - A beautiful and interactive web application!
 
 ## 🌐 **Live Demo**
 **[👉 Visit the Live App Here](https://spf1.vercel.app)** 🚀
